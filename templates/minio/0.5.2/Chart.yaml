@@ -1,7 +1,7 @@
 apiVersion: v1
 description: Distributed object storage server built for cloud applications and devops.
 home: https://minio.io
-icon: https://www.minio.io/img/logo_160x160.png
+icon: file://..icon.png
 keywords:
 - storage
 - object-storage
