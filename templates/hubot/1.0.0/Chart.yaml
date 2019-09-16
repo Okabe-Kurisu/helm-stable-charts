@@ -1,0 +1,19 @@
+apiVersion: v1
+appVersion: 3.3.2
+description: Hubot chatbot for Slack
+home: https://hubot.github.com
+icon: file://..icon.png
+keywords:
+- slack
+- hubot
+- chatbot
+maintainers:
+- email: dblanco@minddoc.com
+  name: darioblanco
+- email: r.komkov@gmail.com
+  name: decayofmind
+name: hubot
+sources:
+- https://github.com/hubotio/hubot
+- https://github.com/minddocdev/hubot
+version: 1.0.0

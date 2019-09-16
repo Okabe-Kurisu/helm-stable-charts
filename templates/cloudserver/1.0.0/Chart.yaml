@@ -1,0 +1,17 @@
+appVersion: 8.1.1
+description: An open-source Node.js implementation of the Amazon S3 protocol on the
+  front-end and backend storage capabilities to multiple clouds, including Azure and
+  Google.
+engine: gotpl
+home: https://www.zenko.io/cloudserver/
+icon: file://..icon.png
+kubeVersion: ^1.8.0-0
+maintainers:
+- email: giacomoguiulfo@gmail.com
+  name: giacomoguiulfo
+- email: salimsalaues@gmail.com
+  name: ssalaues
+name: cloudserver
+sources:
+- https://github.com/scality/cloudserver
+version: 1.0.0

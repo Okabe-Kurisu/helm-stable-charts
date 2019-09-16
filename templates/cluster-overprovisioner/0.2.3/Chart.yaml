@@ -1,0 +1,22 @@
+apiVersion: v1
+appVersion: '1.0'
+description: Installs the a deployment that overprovisions the cluster
+engine: gotpl
+home: https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler
+icon: file://..icon.png
+keywords:
+- cluster
+- autoscaling
+- overprovision
+- cluster-autoscaler
+maintainers:
+- email: max.williams@deliveryhero.com
+  name: max-rocket-internet
+- email: miguel.mingorance@deliveryhero.com
+  name: mmingorance-dh
+name: cluster-overprovisioner
+sources:
+- https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler/FAQ.md#how-can-i-configure-overprovisioning-with-cluster-autoscaler
+- https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler
+- https://github.com/kubernetes/kubernetes/tree/master/build/pause
+version: 0.2.3

@@ -1,0 +1,13 @@
+appVersion: 2.3.1
+description: A Helm chart for Spark History Server
+home: https://spark.apache.org
+keywords:
+- spark
+- history-server
+maintainers:
+- email: yuchaoran2011@gmail.com
+  name: yuchaoran2011
+name: spark-history-server
+sources:
+- https://github.com/apache/spark
+version: 0.1.0

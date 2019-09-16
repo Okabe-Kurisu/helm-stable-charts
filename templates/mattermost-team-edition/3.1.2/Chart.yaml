@@ -1,0 +1,12 @@
+apiVersion: v1
+appVersion: 5.9.0
+deprecated: true
+description: Mattermost Team Edition server.
+home: https://mattermost.com
+icon: http://www.mattermost.org/wp-content/uploads/2016/04/icon.png
+keywords:
+- mattermost
+- communication
+- team collaboration
+name: mattermost-team-edition
+version: 3.1.2

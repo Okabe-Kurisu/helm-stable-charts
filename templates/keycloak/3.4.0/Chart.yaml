@@ -1,0 +1,21 @@
+appVersion: 4.2.1.Final
+description: Open Source Identity and Access Management For Modern Applications and
+  Services
+home: https://www.keycloak.org/
+icon: file://..icon.png
+keywords:
+- sso
+- idm
+- openid connect
+- saml
+- kerberos
+- ldap
+maintainers:
+- email: marcel@beck.im
+  name: nexeck
+- email: unguiculus@gmail.com
+  name: unguiculus
+name: keycloak
+sources:
+- https://github.com/jboss-dockerfiles/keycloak
+version: 3.4.0

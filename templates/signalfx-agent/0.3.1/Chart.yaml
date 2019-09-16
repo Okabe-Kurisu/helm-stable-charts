@@ -1,0 +1,15 @@
+apiVersion: v1
+appVersion: 3.6.1
+deprecated: true
+description: DEPRECATED The SignalFx Kubernetes agent
+home: https://signalfx.com
+icon: file://..icon.png
+keywords:
+- monitoring
+- alerting
+- metrics
+- stats
+name: signalfx-agent
+sources:
+- https://github.com/signalfx/signalfx-agent
+version: 0.3.1

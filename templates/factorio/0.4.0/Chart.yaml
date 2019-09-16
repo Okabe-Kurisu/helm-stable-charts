@@ -1,0 +1,14 @@
+appVersion: 0.15.39
+description: Factorio dedicated server.
+home: https://www.factorio.com/
+icon: file://../icon.png
+keywords:
+- game
+- server
+maintainers:
+- email: gtaylor@gc-taylor.com
+  name: gtaylor
+name: factorio
+sources:
+- https://github.com/games-on-k8s/docker-factorio
+version: 0.4.0

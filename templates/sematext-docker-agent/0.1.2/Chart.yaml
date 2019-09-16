@@ -1,0 +1,15 @@
+description: Sematext Docker Agent
+home: https://sematext.com/
+icon: file://..icon.png
+keywords:
+- alerts
+- metrics
+- events
+- logs
+maintainers:
+- email: alen.komljen@live.com
+  name: komljen
+name: sematext-docker-agent
+sources:
+- https://github.com/sematext/sematext-agent-docker
+version: 0.1.2

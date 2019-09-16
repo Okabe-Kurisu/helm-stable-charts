@@ -1,0 +1,16 @@
+apiVersion: v1
+appVersion: latest
+description: Sumologic Log Collector
+home: https://www.sumologic.com/
+keywords:
+- monitoring
+- logging
+maintainers:
+- email: jdumars+github@gmail.com
+  name: jdumars
+- email: knoxville+github@gmail.com
+  name: seanknox
+name: sumokube
+sources:
+- https://github.com/SumoLogic/sumologic-collector-docker
+version: 1.0.0

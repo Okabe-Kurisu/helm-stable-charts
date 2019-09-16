@@ -1,0 +1,19 @@
+appVersion: "1"
+deprecated: true
+description: DEPRECATED Develop, deploy, protect and monitor your APIs with Google
+  Cloud Endpoints.
+engine: gotpl
+home: https://cloud.google.com/endpoints/
+keywords:
+- google
+- endpoints
+- nginx
+- gcloud
+- proxy
+- authentication
+- monitoring
+- api
+- swagger
+- open api
+name: gcloud-endpoints
+version: 0.1.2

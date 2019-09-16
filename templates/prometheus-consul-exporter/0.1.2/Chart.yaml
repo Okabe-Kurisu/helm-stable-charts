@@ -1,0 +1,13 @@
+apiVersion: v1
+appVersion: 0.4.0
+description: A Helm chart for the Prometheus Consul Exporter
+home: https://github.com/prometheus/consul_exporter
+keywords:
+- metrics
+- consul
+- monitoring
+maintainers:
+- email: 8890118+timm088@users.noreply.github.com
+  name: timm088
+name: prometheus-consul-exporter
+version: 0.1.2

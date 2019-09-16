@@ -1,0 +1,25 @@
+apiVersion: v1
+appVersion: 6.10.1
+description: DataDog Agent
+home: https://www.datadoghq.com
+icon: https://datadog-live.imgix.net/img/dd_logo_70x75.png
+keywords:
+- monitoring
+- alerting
+- metric
+maintainers:
+- email: haissam@datadoghq.com
+  name: hkaj
+- email: ilan@datadoghq.com
+  name: irabinovitch
+- email: charly@datadoghq.com
+  name: charlyf
+- email: pierre.margueritte@datadoghq.com
+  name: mfpierre
+- email: cedric.lamoriniere@datadoghq.com
+  name: clamoriniere
+name: datadog
+sources:
+- https://app.datadoghq.com/account/settings#agent/kubernetes
+- https://github.com/DataDog/datadog-agent
+version: 1.30.5

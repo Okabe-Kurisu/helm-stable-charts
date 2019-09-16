@@ -1,0 +1,23 @@
+apiVersion: v1
+appVersion: 0.9.5
+description: Open source, tool for automating Kubernetes deployment updates. Keel
+  is stateless, robust and lightweight.
+engine: gotpl
+home: https://keel.sh
+keywords:
+- kubernetes deployment
+- helm release
+- continuous deployment
+maintainers:
+- email: rmocius@gmail.com
+  name: rimusz
+- email: karolis.rusenas@gmail.com
+  name: rusenask
+- email: lefevre.kevin@gmail.com
+  name: archifleks
+- email: alexandre.kervadec@gmail.com
+  name: ricebowljr
+name: keel
+sources:
+- https://github.com/keel-hq/keel
+version: 0.6.0

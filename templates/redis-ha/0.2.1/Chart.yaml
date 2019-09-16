@@ -1,0 +1,13 @@
+description: Highly available Redis cluster with multiple sentinels and standbys.
+engine: gotpl
+home: http://redis.io/
+icon: file://..icon.png
+keywords:
+- redis
+- keyvalue
+- database
+maintainers:
+- email: ikaboubi@gmail.com
+  name: KABOUBI
+name: redis-ha
+version: 0.2.1

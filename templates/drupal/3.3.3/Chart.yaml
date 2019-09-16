@@ -1,0 +1,21 @@
+apiVersion: v1
+appVersion: 8.7.3
+description: One of the most versatile open source content management systems.
+engine: gotpl
+home: http://www.drupal.org/
+icon: file://..icon.png
+keywords:
+- drupal
+- cms
+- blog
+- http
+- web
+- application
+- php
+maintainers:
+- email: containers@bitnami.com
+  name: Bitnami
+name: drupal
+sources:
+- https://github.com/bitnami/bitnami-docker-drupal
+version: 3.3.3

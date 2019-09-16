@@ -1,0 +1,10 @@
+apiVersion: v1
+appVersion: 1.7.0
+description: jaeger-operator Helm chart for Kubernetes
+home: https://www.jaegertracing.io/
+icon: file://../icon.svg
+maintainers:
+- email: ctadeu@gmail.com
+  name: cpanato
+name: jaeger-operator
+version: 1.0.2

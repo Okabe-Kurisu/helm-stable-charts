@@ -1,0 +1,18 @@
+apiVersion: v1
+appVersion: 0.5.0
+description: A Helm chart for prometheus cloudwatch-exporter
+home: https://github.com/prometheus/cloudwatch_exporter
+keywords:
+- aws
+- cloudwatch
+- prometheus
+- exporter
+maintainers:
+- email: gianrubio@gmail.com
+  name: gianrubio
+- email: mail@torstenwalter.de
+  name: torstenwalter
+name: prometheus-cloudwatch-exporter
+sources:
+- https://github.com/prometheus/cloudwatch_exporter
+version: 0.4.7

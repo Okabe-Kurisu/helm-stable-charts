@@ -1,0 +1,19 @@
+apiVersion: v1
+appVersion: 0.20.0
+description: Hyperledger Composer REST Server chart
+home: https://hyperledger.github.io/composer
+icon: file://..icon.png
+keywords:
+- blockchain
+- hyperledger
+- fabric
+- composer
+maintainers:
+- email: sasha@aid.technology
+  name: alexvicegrab
+- email: nicola@aid.technology
+  name: nicolapaoli
+name: hl-composer
+sources:
+- https://github.com/hyperledger/composer
+version: 1.0.10

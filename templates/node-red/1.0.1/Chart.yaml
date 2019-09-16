@@ -1,0 +1,16 @@
+apiVersion: v1
+appVersion: 0.19.4
+description: Node-RED is flow-based programming for the Internet of Things
+home: https://github.com/node-red/node-red-docker
+icon: file://..icon.png
+keywords:
+- nodered
+- node-red
+maintainers:
+- email: jeff@billimek.com
+  name: billimek
+name: node-red
+sources:
+- https://github.com/node-red/node-red-docker
+- https://github.com/kubernetes/charts/stable/node-red
+version: 1.0.1

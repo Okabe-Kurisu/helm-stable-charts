@@ -1,0 +1,14 @@
+appVersion: v3.14.1.2
+description: A Helm chart for Aerospike in Kubernetes
+home: http://aerospike.com
+icon: file://..icon.png
+keywords:
+- aerospike
+- big-data
+maintainers:
+- email: kavehmz@gmail.com
+  name: kavehmz
+name: aerospike
+sources:
+- https://github.com/aerospike/aerospike-server
+version: 0.2.1

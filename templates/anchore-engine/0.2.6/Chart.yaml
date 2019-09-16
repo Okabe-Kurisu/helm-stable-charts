@@ -1,0 +1,21 @@
+appVersion: 0.2.4
+description: Anchore container analysis and policy evaluation engine service
+engine: gotpl
+home: https://anchore.io
+icon: file://..icon.png
+keywords:
+- analysis
+- docker
+- anchore
+- anchore-engine
+- image
+- security
+maintainers:
+- email: zach@anchore.com
+  name: zhill
+- email: bradyt@anchore.com
+  name: btodhunter
+name: anchore-engine
+sources:
+- https://github.com/anchore/anchore-engine
+version: 0.2.6

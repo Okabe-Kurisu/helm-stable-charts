@@ -1,0 +1,13 @@
+apiVersion: v1
+appVersion: 1.1.5-3
+deprecated: true
+description: DEPRECATED! - Graphite metrics server
+home: https://graphiteapp.org/
+icon: file://..icon.png
+keywords:
+- metrics
+name: graphite
+sources:
+- https://github.com/graphite-project
+- https://github.com/graphite-project/docker-graphite-statsd
+version: 0.2.1

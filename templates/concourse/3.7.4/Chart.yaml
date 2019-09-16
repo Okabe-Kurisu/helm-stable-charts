@@ -1,0 +1,19 @@
+appVersion: 4.2.2
+description: Concourse is a simple and scalable CI system.
+engine: gotpl
+home: https://concourse-ci.org/
+icon: file://..icon.png
+keywords:
+- ci
+- concourse
+- concourse.ci
+maintainers:
+- email: cscosta@pivotal.io
+  name: cirocosta
+- email: will@autonomic.ai
+  name: william-tran
+name: concourse
+sources:
+- https://github.com/concourse/concourse
+- https://github.com/helm/charts
+version: 3.7.4

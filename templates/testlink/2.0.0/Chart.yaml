@@ -1,0 +1,17 @@
+appVersion: 1.9.17
+description: Web-based test management system that facilitates software quality assurance.
+engine: gotpl
+home: http://www.testlink.org/
+icon: file://..icon.png
+keywords:
+- testlink
+- testing
+- http
+- php
+maintainers:
+- email: containers@bitnami.com
+  name: bitnami-bot
+name: testlink
+sources:
+- https://github.com/bitnami/bitnami-docker-testlink
+version: 2.0.0

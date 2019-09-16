@@ -1,0 +1,14 @@
+apiVersion: v1
+appVersion: 0.0.6
+description: A benchmark tool for cloud object storage services
+engine: gotpl
+home: https://github.com/intel-cloud/cosbench
+kubeVersion: ^1.8.0-0
+maintainers:
+- email: giacomoguiulfo@gmail.com
+  name: giacomoguiulfo
+name: cosbench
+sources:
+- https://github.com/intel-cloud/cosbench
+- https://github.com/scality/zenko-cosbench
+version: 1.0.1

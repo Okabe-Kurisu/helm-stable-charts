@@ -1,0 +1,10 @@
+apiVersion: v1
+appVersion: "1.0"
+description: An Open-Source antivirus engine for detecting trojans, viruses, malware
+  & other malicious threats.
+home: https://www.clamav.net
+maintainers:
+- email: zakkg3@gmail.com
+  name: zakkg3
+name: clamav
+version: 1.0.0

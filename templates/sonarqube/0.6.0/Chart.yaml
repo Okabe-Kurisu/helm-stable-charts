@@ -1,0 +1,16 @@
+appVersion: 6.7.3
+description: Sonarqube is an open sourced code quality scanning tool
+home: https://www.sonarqube.org/
+icon: file://..icon.svg
+keywords:
+- coverage
+- security
+- code
+- quality
+maintainers:
+- email: rjkernick@gmail.com
+  name: rjkernick
+name: sonarqube
+sources:
+- https://github.com/SonarSource/docker-sonarqube
+version: 0.6.0

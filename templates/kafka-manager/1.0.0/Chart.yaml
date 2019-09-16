@@ -1,0 +1,17 @@
+appVersion: 1.3.3.18
+description: A tool for managing Apache Kafka.
+engine: gotpl
+home: https://github.com/yahoo/kafka-manager
+icon: https://kafka.apache.org/images/logo.png
+keywords:
+- kafka
+- zookeeper
+- kafka-manager
+kubeVersion: ^1.8.0-0
+maintainers:
+- email: giacomoguiulfo@gmail.com
+  name: giacomoguiulfo
+name: kafka-manager
+sources:
+- https://github.com/yahoo/kafka-manager
+version: 1.0.0
