@@ -3,7 +3,7 @@ appVersion: v0.0.4
 description: Kubewatch notifies your slack rooms when changes to your cluster occur
 engine: gotpl
 home: https://github.com/bitnami-labs/kubewatch
-icon: https://bitnami.com/assets/stacks/kubewatch/img/kubewatch-stack-220x234.png
+icon: file://..icon.png
 keywords:
 - kubernetes
 - slack

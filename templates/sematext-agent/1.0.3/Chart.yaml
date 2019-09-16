@@ -1,8 +1,8 @@
 apiVersion: v1
-appVersion: "1.0"
+appVersion: '1.0'
 description: Helm chart for deploying Sematext Agent to Kubernetes
 home: https://sematext.com/cloud
-icon: https://sematext.com/wp-content/uploads/2017/09/octi-square-logo-200x200-2.png
+icon: file://../icon.png
 keywords:
 - sematext
 - observability

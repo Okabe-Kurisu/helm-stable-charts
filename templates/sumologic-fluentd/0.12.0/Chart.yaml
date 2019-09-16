@@ -1,7 +1,7 @@
 appVersion: 2.3.0
 description: Sumologic Log Collector
 home: https://github.com/SumoLogic/fluentd-kubernetes-sumologic
-icon: https://www.sumologic.com/wp-content/uploads/logo_light-theme.png
+icon: file://..icon.png
 keywords:
 - monitoring
 - logging

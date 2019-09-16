@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 6.13.0
 description: DataDog Agent
 home: https://www.datadoghq.com
-icon: https://datadog-live.imgix.net/img/dd_logo_70x75.png
+icon: file://..icon.png
 keywords:
 - monitoring
 - alerting

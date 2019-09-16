@@ -4,7 +4,7 @@ description: The Mercure hub allows to push data updates using the Mercure proto
   to web browsers and other HTTP clients in a convenient, fast, reliable and battery-efficient
   way
 home: https://mercure.rocks
-icon: https://cdn.jsdelivr.net/gh/dunglas/mercure/public/mercure.svg
+icon: file://..icon.svg
 keywords:
 - mercure
 - hub

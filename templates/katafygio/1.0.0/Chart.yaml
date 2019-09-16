@@ -3,7 +3,7 @@ appVersion: 0.8.1
 description: Continuously backup Kubernetes objets as YAML files in git
 engine: gotpl
 home: https://github.com/bpineau/katafygio
-icon: https://raw.githubusercontent.com/bpineau/katafygio/master/assets/logo/480px-katafygio.png
+icon: file://..icon.png
 keywords:
 - backup
 - dump

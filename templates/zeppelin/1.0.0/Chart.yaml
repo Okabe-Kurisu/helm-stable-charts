@@ -3,7 +3,7 @@ appVersion: 0.7.2
 description: Web-based notebook that enables data-driven, interactive data analytics
   and collaborative documents with SQL, Scala and more.
 home: https://zeppelin.apache.org/
-icon: https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppelin_classic_logo.png
+icon: file://..icon.png
 maintainers:
 - email: disla@google.com
   name: danisla
