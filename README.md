@@ -90,14 +90,20 @@
         ```
         注意，在这一步中会有很多图标无法被下载或者是就没图标，可以手动下载一个并按照手动第三步的操作重命名并放在项目中。然后再运行一次`python3 main.py --gaicon`就可以自动修改其项目下全部yaml文件中icon字段。
 
-        至于没有图标的项目有哪些，可以在脚本路径下的`out/noIconList.txt`文件中看到。
+        至于没有图标的项目有哪些，可以在脚本路径下的`out/NullList/noIconList.txt`文件中看到。
 
-   4. 创建git，并上传到什么地方
+   4. 分类
+        ```
+        python3 main.py --gac
+        ```
+        这一步可能会得到很多没有因为没有关键字或者关键字比较奇怪而无法分类的chart，这些chart都可以在在脚本路径下的`out/NullList/noCategoryList.txt`中看到。可能需要手动在这些chart中添加`questions.yml`文件。
+
+   5. 创建git，并上传到什么地方
         这一步中创建git，以及commit的过程都会在前面的命令中被完成。然后通过
         ```
         python3 main.py --git
         ```
         来提交更改。
 
-   5. 在容器云平台中添加应用源
+   6. 在容器云平台中添加应用源
         这一部还是继续手动添加吧。
