@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: v1.0.1
 description: The official Helm chart for Kuberhealthy.
 home: https://comcast.github.io/kuberhealthy/
-icon: https://raw.githubusercontent.com/Comcast/kuberhealthy/helm/deploy/helm/kuberhealthy/kh-logo.png
+icon: file://..icon.png
 keywords:
 - kuberhealthy
 - kubernetes

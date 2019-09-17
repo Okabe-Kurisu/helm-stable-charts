@@ -3,7 +3,7 @@ appVersion: 3.1.2
 deprecated: true
 description: DEPRECATED A Helm chart for JFrog Mission Control
 home: https://jfrog.com/mission-control/
-icon: https://raw.githubusercontent.com/JFrogDev/artifactory-dcos/master/images/jfrog_med.png
+icon: file://..icon.png
 keywords:
 - mission-control
 - jfrog

@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 0.0.18
 description: Reloader chart that runs on kubernetes
 home: https://github.com/stakater/Reloader
-icon: https://raw.githubusercontent.com/stakater/Reloader/master/assets/web/reloader-round-100px.png
+icon: file://..icon.png
 keywords:
 - Reloader
 - kubernetes

@@ -2,7 +2,7 @@ description: Prepare to take off with the ultimate chat platform, experience the
   level of team communications
 engine: gotpl
 home: https://rocket.chat/
-icon: https://cdn-www.rocket.chat/images/logo/logo.svg
+icon: file://..icon.png
 keywords:
 - chat
 - communication

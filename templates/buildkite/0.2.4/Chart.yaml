@@ -1,9 +1,9 @@
 apiVersion: v1
-appVersion: "3"
+appVersion: '3'
 deprecated: true
 description: DEPRECATED Agent for Buildkite
 home: https://buildkite.com
-icon: https://github.com/buildkite/media/blob/master/marks/Buildkite%20-%20Mark%20-%20colour.png
+icon: file://..icon.png
 keywords:
 - kubernetes deployment
 - helm release

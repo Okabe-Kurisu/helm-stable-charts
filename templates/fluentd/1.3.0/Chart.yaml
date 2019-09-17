@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: v2.3.1
 description: A Fluentd Elasticsearch Helm chart for Kubernetes.
 home: https://www.fluentd.org/
-icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+icon: file://..icon.png
 maintainers:
 - email: pete.brown@powerhrg.com
   name: rendhalver

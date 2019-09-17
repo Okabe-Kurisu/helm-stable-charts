@@ -3,7 +3,7 @@ appVersion: 2.3.0
 description: Universal component scan for security and license inventory and impact
   analysis
 home: https://www.jfrog.com/xray/
-icon: https://raw.githubusercontent.com/JFrogDev/artifactory-dcos/master/images/jfrog_med.png
+icon: file://..icon.png
 keywords:
 - xray
 - jfrog

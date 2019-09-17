@@ -1,7 +1,7 @@
 appVersion: v1.7.3
 description: private Ethereum network Helm chart for Kubernetes
 home: https://www.ethereum.org/
-icon: https://www.ethereum.org/images/logos/ETHEREUM-LOGO_PORTRAIT_Black_small.png
+icon: file://..icon.png
 keywords:
 - ethereum
 - blockchain

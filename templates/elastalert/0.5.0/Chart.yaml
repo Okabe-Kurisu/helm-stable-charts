@@ -3,7 +3,7 @@ description: ElastAlert is a simple framework for alerting on anomalies, spikes,
   other patterns of interest from data in Elasticsearch.
 engine: gotpl
 home: https://github.com/Yelp/elastalert
-icon: https://static-www.elastic.co/assets/blteb1c97719574938d/logo-elastic-elasticsearch-lt.svg
+icon: file://..icon.png
 maintainers:
 - email: jertel@codesim.com
   name: jertel

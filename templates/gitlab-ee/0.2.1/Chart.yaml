@@ -1,7 +1,7 @@
 deprecated: true
 description: GitLab Enterprise Edition
 home: https://about.gitlab.com
-icon: https://gitlab.com/uploads/group/avatar/6543/gitlab-logo-square.png
+icon: file://..icon.png
 keywords:
 - git
 - ci

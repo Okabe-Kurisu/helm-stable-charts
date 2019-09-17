@@ -2,7 +2,7 @@ appVersion: 1.0.0
 description: Kubernetes Operational View - read-only system dashboard for multiple
   K8s clusters
 home: https://github.com/hjacobs/kube-ops-view
-icon: https://raw.githubusercontent.com/hjacobs/kube-ops-view/master/kube-ops-view-logo.png
+icon: file://..icon.png
 keywords:
 - kubernetes
 - dashboard

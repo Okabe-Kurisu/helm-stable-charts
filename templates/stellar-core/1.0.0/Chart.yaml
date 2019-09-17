@@ -3,7 +3,7 @@ appVersion: 10.0.0
 description: Backbone node of the Stellar cryptocurrency network.
 engine: gotpl
 home: https://www.stellar.org
-icon: https://www.stellar.org/developers/images/favicon/rocket-180x180.png
+icon: file://..icon.png
 keywords:
 - stellar
 - stellar-core

@@ -1,7 +1,7 @@
 apiVersion: v1
 description: An e-mail testing tool for developers
 home: http://iankent.uk/project/mailhog/
-icon: https://raw.githubusercontent.com/mailhog/MailHog-UI/master/assets/images/hog.png
+icon: file://..icon.png
 keywords:
 - mailhog
 - mail
@@ -11,7 +11,7 @@ keywords:
 - testing
 maintainers:
 - email: unguiculus@gmail.com
-  name: Reinhard Nägele
+  name: "Reinhard N\xE4gele"
 name: mailhog
 sources:
 - https://github.com/mailhog/MailHog
