@@ -1,4 +1,5 @@
 categories:
-- kubernetes
-- monitoring
-- slack
+- Contain-kubernetes
+- Cloud-kubernetes deployment
+- Teamwork-slack
+- Monitoring-monitoring

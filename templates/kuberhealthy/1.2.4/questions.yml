@@ -1,5 +1,7 @@
 categories:
-- kubernetes
-- cluster
-- prometheus
-- monitoring
+- Cloud-kubernetes deployment
+- Cloud-cluster
+- Contain-kubernetes
+- Monitoring-monitoring
+- Monitoring-prometheus-operator
+- Contain-cluster-autoscaler

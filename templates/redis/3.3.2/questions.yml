@@ -1,2 +1,4 @@
 categories:
-- database
+- DataBase-keyvalue
+- DataBase-database
+- DataBase-redis

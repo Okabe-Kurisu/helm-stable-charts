@@ -1,3 +1,4 @@
 categories:
-- kubernetes
-- security
+- Security-security
+- Contain-kubernetes
+- Cloud-kubernetes deployment

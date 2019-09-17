@@ -1,3 +1,4 @@
 categories:
-- prometheus
-- metrics
+- Monitoring-hpa
+- Monitoring-metrics
+- Monitoring-prometheus-operator

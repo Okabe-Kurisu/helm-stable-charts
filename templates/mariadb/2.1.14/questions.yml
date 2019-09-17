@@ -1,5 +1,5 @@
 categories:
-- prometheus
-- sql
-- database
-- mysql
+- DataBase-sql
+- DataBase-database
+- DataBase-mariadb
+- Monitoring-prometheus-operator

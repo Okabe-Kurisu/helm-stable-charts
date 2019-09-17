@@ -1,3 +1,4 @@
 categories:
-- monitoring
-- logging
+- Monitoring-fluentd
+- Monitoring-logging
+- Monitoring-monitoring

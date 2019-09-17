@@ -1,3 +1,6 @@
 categories:
-- prometheus
-- metrics
+- DataBase-mongodb
+- Contain-helm-exporter
+- Monitoring-prometheus-operator
+- Monitoring-couchdb-exporter
+- Monitoring-metrics

@@ -1,2 +1,4 @@
 categories:
-- database
+- DataBase-hazelcast
+- DataBase-database
+- DataBase-keyvalue

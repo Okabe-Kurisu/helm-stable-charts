@@ -1,2 +1,5 @@
 categories:
-- prometheus
+- MQ-nats
+- Monitoring-prometheus-operator
+- Contain-helm-exporter
+- Monitoring-couchdb-exporter

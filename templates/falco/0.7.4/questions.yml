@@ -1,3 +1,6 @@
 categories:
-- security
-- monitoring
+- Security-security
+- Monitoring-alerting
+- Monitoring-monitoring
+- Monitoring-metrics
+- ProjectManage-troubleshooting

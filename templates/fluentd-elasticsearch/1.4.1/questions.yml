@@ -1,2 +1,5 @@
 categories:
-- logging
+- Monitoring-fluentd
+- Application-elasticsearch
+- Monitoring-logging
+- BigData-elasticsearch

@@ -1,2 +1,6 @@
 categories:
-- monitoring
+- Auth-authentication
+- Network-nginx
+- DataBase-sqlproxy
+- Monitoring-monitoring
+- Network-proxy

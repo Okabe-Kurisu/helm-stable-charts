@@ -1,2 +1,5 @@
 categories:
-- prometheus
+- Monitoring-couchdb-exporter
+- Cloud-aws
+- Contain-helm-exporter
+- Monitoring-prometheus-operator

@@ -1,2 +1,6 @@
 categories:
-- kubernetes
+- Auth-authentication
+- Cloud-kubernetes deployment
+- Auth-oauth
+- Contain-kubernetes
+- Network-proxy

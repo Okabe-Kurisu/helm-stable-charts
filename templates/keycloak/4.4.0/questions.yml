@@ -1,2 +1,4 @@
 categories:
-- idm
+- Auth-openid connect
+- Auth-ldap
+- Auth-sso

@@ -1,4 +1,5 @@
 categories:
-- stackdriver
-- monitoring
-- metrics
+- Monitoring-metrics
+- Monitoring-monitoring
+- Cloud-stackdriver
+- Monitoring-stackdriver

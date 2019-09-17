@@ -1,3 +1,5 @@
 categories:
-- logging
-- metrics
+- Monitoring-metrics
+- Middleware-event
+- Monitoring-logging
+- Monitoring-logs

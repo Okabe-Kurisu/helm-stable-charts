@@ -1,2 +1,5 @@
 categories:
-- blockchain
+- BlockChain-blockchain
+- BlockChain-fabric
+- BlockChain-hyperledger
+- Monitoring-couchdb-exporter

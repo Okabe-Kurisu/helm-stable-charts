@@ -1,4 +1,5 @@
 categories:
-- sql
-- database
-- mysql
+- DataBase-sql
+- DataBase-database
+- DataBase-percona
+- Cloud-cluster

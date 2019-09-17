@@ -1,2 +1,3 @@
 categories:
-- message queue
+- MQ-rabbitmq
+- MQ-message queue

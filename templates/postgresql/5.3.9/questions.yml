@@ -1,4 +1,7 @@
 categories:
-- cluster
-- sql
-- database
+- DataBase-sql
+- DataBase-database
+- Cloud-cluster
+- DataBase-postgresql
+- DataBase-replication
+- Contain-cluster-autoscaler
