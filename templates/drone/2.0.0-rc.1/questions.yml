@@ -1,8 +1,7 @@
 categories:
-- QA
 - DataBase
-- Cloud
-- Middleware
 - Container
+- QA
 - CI/CD
 - Security
+- Middleware
