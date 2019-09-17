@@ -1,5 +1,3 @@
 categories:
-- Storage-ipfs
-- Storage-storage
-- Cloud-distributed
-- Cloud-aws
+- Cloud
+- Storage

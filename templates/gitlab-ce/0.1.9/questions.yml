@@ -1,7 +1,5 @@
 categories:
-- ProjectManage-issue tracker
-- ProjectManage-wiki
-- Cloud-kubernetes deployment
-- ProjectManage-code review
-- Workflow-ci
-- Contain-kubernetes deployment
+- Contain
+- Cloud
+- Workflow
+- ProjectManage

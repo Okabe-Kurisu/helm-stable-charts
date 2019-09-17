@@ -1,6 +1,4 @@
 categories:
-- DataBase-mongodb
-- Contain-helm-exporter
-- Monitoring-prometheus-operator
-- Monitoring-couchdb-exporter
-- Monitoring-metrics
+- DataBase
+- Monitoring
+- Contain

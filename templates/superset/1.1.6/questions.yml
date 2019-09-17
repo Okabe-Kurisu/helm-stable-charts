@@ -1,4 +1,4 @@
 categories:
-- BigData-big-data
-- MQ-rabbitmq
-- Monitoring-observability
+- Monitoring
+- MQ
+- BigData

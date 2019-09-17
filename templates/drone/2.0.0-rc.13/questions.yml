@@ -1,8 +1,7 @@
 categories:
-- Cloud-kube-lego
-- Contain-kube-lego
-- DataBase-mongodb
-- Workflow-drone
-- Security-kube-lego
-- Middleware-centrifugo
-- Contain-docker
+- Contain
+- Workflow
+- Security
+- Middleware
+- DataBase
+- Cloud

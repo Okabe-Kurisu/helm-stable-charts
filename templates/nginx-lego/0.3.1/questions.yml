@@ -1,6 +1,5 @@
 categories:
-- Cloud-kube-lego
-- Network-nginx
-- Contain-kube-lego
-- Security-kube-lego
-- Security-letsencrypt
+- Cloud
+- Contain
+- Network
+- Security

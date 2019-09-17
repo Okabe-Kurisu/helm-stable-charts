@@ -1,5 +1,3 @@
 categories:
-- DataBase-sql
-- DataBase-database
-- DataBase-mariadb
-- Monitoring-prometheus-operator
+- DataBase
+- Monitoring

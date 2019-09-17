@@ -1,6 +1,4 @@
 categories:
-- Cloud-kubernetes deployment
-- Contain-kubernetes
-- Monitoring-monitoring
-- Monitoring-prometheus-operator
-- Monitoring-metrics
+- Monitoring
+- Contain
+- Cloud

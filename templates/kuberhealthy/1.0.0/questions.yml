@@ -1,6 +1,4 @@
 categories:
-- Cloud-kubernetes deployment
-- Cloud-cluster
-- Contain-kubernetes
-- Monitoring-monitoring
-- Contain-cluster-autoscaler
+- Monitoring
+- Contain
+- Cloud

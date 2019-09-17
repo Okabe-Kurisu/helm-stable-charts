@@ -1,7 +1,5 @@
 categories:
-- DataBase-sql
-- DataBase-database
-- Cloud-cluster
-- Monitoring-prometheus-operator
-- DataBase-replication
-- Contain-cluster-autoscaler
+- DataBase
+- Monitoring
+- Contain
+- Cloud

@@ -1,4 +1,3 @@
 categories:
-- Monitoring-prometheus-operator
-- Cloud-stackdriver
-- Monitoring-stackdriver
+- Monitoring
+- Cloud

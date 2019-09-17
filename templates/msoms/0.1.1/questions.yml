@@ -1,6 +1,3 @@
 categories:
-- Middleware-event
-- Monitoring-logging
-- Monitoring-alerting
-- Monitoring-monitoring
-- Monitoring-metrics
+- Monitoring
+- Middleware

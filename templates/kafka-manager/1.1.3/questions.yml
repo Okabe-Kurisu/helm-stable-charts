@@ -1,4 +1,3 @@
 categories:
-- Middleware-kafka
-- Cloud-zookeeper
-- Middleware-zookeeper
+- Cloud
+- Middleware

@@ -1,5 +1,4 @@
 categories:
-- DataBase-sql
-- Monitoring-prometheus-operator
-- Contain-helm-exporter
-- Monitoring-couchdb-exporter
+- DataBase
+- Monitoring
+- Contain

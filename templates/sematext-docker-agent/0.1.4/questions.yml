@@ -1,5 +1,4 @@
 categories:
-- Monitoring-metrics
-- Middleware-event
-- Contain-docker
-- Monitoring-logs
+- Monitoring
+- Contain
+- Middleware

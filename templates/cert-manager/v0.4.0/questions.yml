@@ -1,5 +1,4 @@
 categories:
-- Cloud-kube-lego
-- Contain-kube-lego
-- Security-kube-lego
-- Security-letsencrypt
+- Contain
+- Cloud
+- Security

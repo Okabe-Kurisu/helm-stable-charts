@@ -1,4 +1,3 @@
 categories:
-- DataBase-sql
-- DataBase-database
-- Monitoring-couchdb-exporter
+- DataBase
+- Monitoring

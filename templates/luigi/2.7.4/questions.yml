@@ -1,6 +1,4 @@
 categories:
-- ProjectManage-task management
-- BigData-spark
-- BigData-hadoop
-- Contain-kubernetes
-- Contain-k8s-spot-rescheduler
+- Contain
+- BigData
+- ProjectManage

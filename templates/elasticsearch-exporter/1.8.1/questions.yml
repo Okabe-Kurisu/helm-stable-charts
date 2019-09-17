@@ -1,5 +1,4 @@
 categories:
-- Monitoring-metrics
-- Application-elasticsearch
-- Monitoring-monitoring
-- BigData-elasticsearch
+- Application
+- Monitoring
+- BigData

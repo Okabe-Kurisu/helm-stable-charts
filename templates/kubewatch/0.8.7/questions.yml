@@ -1,6 +1,4 @@
 categories:
-- Teamwork-chat
-- Cloud-kubernetes deployment
-- Teamwork-slack
-- Contain-kubernetes
-- Teamwork-mattermost
+- Contain
+- Cloud
+- Teamwork

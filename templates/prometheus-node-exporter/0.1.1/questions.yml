@@ -1,4 +1,3 @@
 categories:
-- Monitoring-prometheus-operator
-- Contain-helm-exporter
-- Monitoring-couchdb-exporter
+- Monitoring
+- Contain

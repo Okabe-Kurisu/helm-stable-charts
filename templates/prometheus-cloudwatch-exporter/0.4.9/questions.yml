@@ -1,5 +1,4 @@
 categories:
-- Monitoring-couchdb-exporter
-- Cloud-aws
-- Contain-helm-exporter
-- Monitoring-prometheus-operator
+- Monitoring
+- Contain
+- Cloud

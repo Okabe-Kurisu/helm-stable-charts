@@ -1,5 +1,4 @@
 categories:
-- Monitoring-fluentd
-- Application-elasticsearch
-- Monitoring-logging
-- BigData-elasticsearch
+- Application
+- Monitoring
+- BigData

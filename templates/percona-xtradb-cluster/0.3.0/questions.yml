@@ -1,5 +1,3 @@
 categories:
-- DataBase-sql
-- DataBase-database
-- DataBase-percona
-- Cloud-cluster
+- DataBase
+- Cloud
