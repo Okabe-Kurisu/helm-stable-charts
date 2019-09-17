@@ -1,7 +1,8 @@
 categories:
-- Contain
-- Workflow
-- Security
-- Middleware
+- QA
 - DataBase
 - Cloud
+- Middleware
+- Container
+- CI/CD
+- Security

@@ -1,4 +1,5 @@
 categories:
-- Monitoring
-- MQ
 - BigData
+- MQ
+- Middleware
+- Monitoring
