@@ -4,7 +4,7 @@ description: Open source, advanced key-value store. It is often referred to as a
   sets.
 engine: gotpl
 home: http://redis.io/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - redis
 - keyvalue

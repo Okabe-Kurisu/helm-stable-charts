@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 2.18.0
 description: CoreOS Dex
 home: https://github.com/dexidp/dex/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - dex
 - oidc

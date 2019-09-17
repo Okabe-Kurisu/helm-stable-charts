@@ -3,7 +3,7 @@ appVersion: 0.0.3
 description: Pomerium is an identity-aware access proxy.
 engine: gotpl
 home: http://www.pomerium.io/
-icon: file://..icon.svg
+icon: file://../icon.svg
 keywords:
 - proxy
 - access-proxy

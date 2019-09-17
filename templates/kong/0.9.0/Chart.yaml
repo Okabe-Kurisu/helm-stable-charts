@@ -3,7 +3,7 @@ appVersion: 1.0.0
 description: The Cloud-Native Ingress and Service Mesh for APIs and Microservices
 engine: gotpl
 home: https://KongHQ.com/
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: shashi@konghq.com
   name: shashiranjan84

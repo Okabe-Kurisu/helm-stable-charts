@@ -1,7 +1,7 @@
 appVersion: 0.17.1
 description: Burrow is a permissionable smart contract machine
 engine: gotpl
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - blockchain
 - smart_contracts

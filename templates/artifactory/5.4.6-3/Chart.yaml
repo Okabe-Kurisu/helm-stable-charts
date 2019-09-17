@@ -3,7 +3,7 @@ appVersion: 5.4.6
 description: Universal Repository Manager supporting all major packaging formats,
   build tools and CI servers.
 home: https://www.jfrog.com/artifactory/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - artifactory
 - jfrog

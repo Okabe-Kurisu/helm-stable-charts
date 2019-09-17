@@ -2,7 +2,7 @@ description: free, fully compatible, enhanced, open source drop-in replacement f
   MySQL
 engine: gotpl
 home: https://www.percona.com/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - mysql
 - percona

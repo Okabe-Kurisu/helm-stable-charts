@@ -1,7 +1,7 @@
 appVersion: 3.4.5
 description: Neo4j is the world's leading graph database
 home: https://www.neo4j.com
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: mark.needham@neo4j.com
   name: mneedham

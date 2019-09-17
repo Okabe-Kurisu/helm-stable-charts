@@ -2,7 +2,7 @@ apiVersion: v1
 description: Dashboard for the Sensu monitoring framework
 engine: gotpl
 home: https://uchiwa.io/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - uchiwa
 - sensu

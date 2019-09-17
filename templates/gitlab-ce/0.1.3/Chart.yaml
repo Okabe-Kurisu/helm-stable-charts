@@ -1,4 +1,5 @@
 description: GitLab Community Edition
+icon: file://../icon.png
 keywords:
 - git
 - ci

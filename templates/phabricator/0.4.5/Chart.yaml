@@ -2,7 +2,7 @@ description: Collection of open source web applications that help software compa
   build better software.
 engine: gotpl
 home: https://www.phacility.com/phabricator/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - phabricator
 - http

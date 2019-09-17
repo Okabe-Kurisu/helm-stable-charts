@@ -2,7 +2,7 @@ description: Highly available and distributed service discovery and key-value st
   designed with support for the modern data center to make distributed systems and
   configuration easy.
 home: https://github.com/hashicorp/consul
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: lachlan@deis.com
   name: Lachlan Evenson

@@ -4,7 +4,7 @@ description: Fast, reliable, scalable, and easy to use open-source relational da
   system.
 engine: gotpl
 home: https://www.mysql.com/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - mysql
 - database

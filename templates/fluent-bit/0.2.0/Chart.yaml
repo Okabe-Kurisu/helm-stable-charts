@@ -1,7 +1,7 @@
 appVersion: 0.12.3
 description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
 home: http://fluentbit.io
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - logging
 - monitoring

@@ -2,6 +2,7 @@ description: Community forum that supports the notion of users and groups, file 
   full-text search, notifications and more.
 engine: gotpl
 home: https://www.phpbb.com/
+icon: file://../icon.png
 keywords:
 - phpbb
 - forum

@@ -1,5 +1,6 @@
 description: A simple Docker container and image garbage collection script.
 home: https://github.com/spotify/docker-gc
+icon: file://../icon.png
 maintainers:
 - email: vadice@microsoft.com
   name: Vaughn Dice

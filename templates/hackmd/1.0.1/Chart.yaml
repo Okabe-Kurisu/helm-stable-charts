@@ -3,7 +3,7 @@ appVersion: 1.2.1-alpine
 description: Realtime collaborative markdown notes on all platforms.
 engine: gotpl
 home: https://hackmd.io
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - hackmd
 - cms

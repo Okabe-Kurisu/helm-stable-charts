@@ -3,7 +3,7 @@ appVersion: 5.0.5
 description: Highly available Kubernetes implementation of Redis
 engine: gotpl
 home: http://redis.io/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - redis
 - keyvalue

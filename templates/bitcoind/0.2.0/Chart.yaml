@@ -3,7 +3,7 @@ appVersion: 0.17.1
 description: Bitcoin is an innovative payment network and a new kind of money.
 engine: gotpl
 home: https://bitcoin.org/
-icon: file://..icon.svg
+icon: file://../icon.svg
 keywords:
 - bitcoind
 - cryptocurrency

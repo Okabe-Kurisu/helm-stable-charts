@@ -3,7 +3,7 @@ appVersion: 6.8.2
 description: Flexible and powerful open source, distributed real-time search and analytics
   engine.
 home: https://www.elastic.co/products/elasticsearch
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: christian@jetstack.io
   name: simonswine

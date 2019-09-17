@@ -1,6 +1,6 @@
 description: GitLab Enterprise Edition
 home: https://about.gitlab.com
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - git
 - ci

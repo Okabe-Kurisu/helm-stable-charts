@@ -1,5 +1,6 @@
 description: Collect information about Kubernetes clusters to help improve the project.
 engine: gotpl
+icon: file://../icon.png
 maintainers:
 - email: mgoodness@gmail.com
   name: Michael Goodness

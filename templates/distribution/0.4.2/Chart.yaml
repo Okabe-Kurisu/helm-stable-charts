@@ -3,7 +3,7 @@ appVersion: 1.1.0
 deprecated: true
 description: DEPRECATED A Helm chart for JFrog Distribution
 home: https://jfrog.com/platform/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - distribution
 - jfrog

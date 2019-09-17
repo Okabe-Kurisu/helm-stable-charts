@@ -2,7 +2,7 @@ appVersion: 3.4.3.Final
 description: Open Source Identity and Access Management For Modern Applications and
   Services
 home: http://www.keycloak.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - authentication
 maintainers:

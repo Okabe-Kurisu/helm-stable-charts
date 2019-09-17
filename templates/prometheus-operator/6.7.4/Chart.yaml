@@ -4,7 +4,7 @@ description: Provides easy monitoring definitions for Kubernetes services, and d
   and management of Prometheus instances.
 engine: gotpl
 home: https://github.com/coreos/prometheus-operator
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - operator
 - prometheus

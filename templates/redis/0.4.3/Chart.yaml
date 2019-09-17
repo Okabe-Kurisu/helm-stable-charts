@@ -1,6 +1,7 @@
 description: Chart for Redis
 engine: gotpl
 home: http://redis.io/
+icon: file://../icon.png
 keywords:
 - redis
 - keyvalue

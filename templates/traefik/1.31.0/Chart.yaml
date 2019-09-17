@@ -3,7 +3,7 @@ appVersion: 1.6.0
 description: A Traefik based Kubernetes ingress controller with Let's Encrypt support
 engine: gotpl
 home: https://traefik.io/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - traefik
 - ingress

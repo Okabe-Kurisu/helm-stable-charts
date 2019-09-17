@@ -3,7 +3,7 @@ description: A feature-rich flexible e-commerce solution. It includes transactio
   shopper filtering, promotion rules, and more.
 engine: gotpl
 home: https://magento.com/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - magento
 - e-commerce

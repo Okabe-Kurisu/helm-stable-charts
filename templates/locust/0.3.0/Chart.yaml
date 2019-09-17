@@ -1,7 +1,7 @@
 appVersion: 0.7.5
 description: A modern load testing framework
 home: http://locust.io
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: vincent.drl@gmail.com
   name: so0k

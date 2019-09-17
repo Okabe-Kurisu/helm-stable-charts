@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 1.2.0
 description: A Helm chart for kured
 home: https://github.com/weaveworks/kured
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: plummer574@gmail.com
   name: plumdog

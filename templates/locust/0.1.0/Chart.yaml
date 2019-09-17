@@ -1,4 +1,5 @@
 description: A chart for locust distributed load testing
+icon: file://../icon.png
 name: locust
 sources:
 - https://github.com/honestbee/distributed-load-testing

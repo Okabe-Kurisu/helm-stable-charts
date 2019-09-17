@@ -2,7 +2,7 @@ appVersion: 0.2.3
 description: Anchore container analysis and policy evaluation engine service
 engine: gotpl
 home: https://anchore.io
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - analysis
 - docker

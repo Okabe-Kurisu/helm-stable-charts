@@ -1,6 +1,7 @@
 description: Google Cloud SQL Proxy
 engine: gotpl
 home: https://cloud.google.com/sql/docs/postgres/sql-proxy
+icon: file://../icon.png
 keywords:
 - google
 - cloud

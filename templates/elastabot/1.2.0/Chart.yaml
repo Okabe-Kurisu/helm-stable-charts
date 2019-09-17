@@ -4,6 +4,7 @@ description: A Helm chart for Elastabot - a Slack bot companion for Elasticsearc
   and ElastAlert
 engine: gotpl
 home: https://github.com/jertel/elastabot
+icon: file://../icon.png
 maintainers:
 - email: jertel@codesim.com
   name: jertel

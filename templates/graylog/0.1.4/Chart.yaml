@@ -3,7 +3,7 @@ description: Graylog is the centralized log management solution built to open st
   for capturing, storing, and enabling real-time analysis of terabytes of machine
   data.
 home: https://www.graylog.org
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - graylog
 - logs

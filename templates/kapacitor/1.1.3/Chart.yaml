@@ -4,6 +4,7 @@ description: InfluxDB's native data processing engine. It can process both strea
   and batch data from InfluxDB.
 engine: gotpl
 home: https://www.influxdata.com/time-series-platform/kapacitor/
+icon: file://../icon.png
 keywords:
 - kapacitor
 - stream

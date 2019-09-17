@@ -1,6 +1,7 @@
 description: A Helm chart for chaoskube
 engine: gotpl
 home: https://github.com/linki/chaoskube
+icon: file://../icon.png
 maintainers:
 - email: linki+helm.sh@posteo.de
   name: Martin Linkhorst

@@ -5,7 +5,7 @@ description: 'Pachyderm is a large-scale container-based workflow engine that of
 
   '
 home: https://pachyderm.io
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - pachyderm
 - workflows

@@ -1,7 +1,7 @@
 appVersion: 6.6.0
 description: DataDog Agent
 home: https://www.datadoghq.com
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - monitoring
 - alerting

@@ -1,7 +1,7 @@
 appVersion: 1.8.1
 description: General-purpose web UI for Kubernetes clusters
 home: https://github.com/kubernetes/dashboard
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - kubernetes
 - dashboard

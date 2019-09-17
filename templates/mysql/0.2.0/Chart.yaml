@@ -1,6 +1,7 @@
 description: Chart for MySQL
 engine: gotpl
 home: https://www.mysql.com/
+icon: file://../icon.png
 keywords:
 - mysql
 - database

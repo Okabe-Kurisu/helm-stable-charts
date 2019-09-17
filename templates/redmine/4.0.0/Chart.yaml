@@ -2,7 +2,7 @@ appVersion: 3.4.6
 description: A flexible project management web application.
 engine: gotpl
 home: http://www.redmine.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - redmine
 - project management

@@ -4,7 +4,7 @@ description: Open source message broker software that implements the Advanced Me
   Queuing Protocol (AMQP)
 engine: gotpl
 home: https://www.rabbitmq.com
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - rabbitmq
 - message queue

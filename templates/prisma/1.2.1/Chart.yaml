@@ -3,7 +3,7 @@ appVersion: 1.29.1
 description: Prisma turns your database into a realtime GraphQL API
 engine: gotpl
 home: https://www.prisma.io/
-icon: file://..icon.png
+icon: file://../icon.png
 kubeVersion: ^1.8.0-0
 maintainers:
 - email: giacomoguiulfo@gmail.com

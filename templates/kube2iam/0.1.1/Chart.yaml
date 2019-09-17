@@ -1,6 +1,7 @@
 description: Provide IAM credentials to containers running inside a kubernetes cluster
   based on annotations.
 engine: gotpl
+icon: file://../icon.png
 keywords:
 - kube2iam
 - aws

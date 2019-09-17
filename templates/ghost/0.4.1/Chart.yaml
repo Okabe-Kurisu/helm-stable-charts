@@ -2,6 +2,7 @@ description: A simple, powerful publishing platform that allows you to share you
   stories with the world
 engine: gotpl
 home: http://www.ghost.org/
+icon: file://../icon.png
 keywords:
 - ghost
 - blog

@@ -1,7 +1,8 @@
-appVersion: "2.8"
+appVersion: '2.8'
 description: Integrate AWS IAM with Kubernetes
 engine: gotpl
 home: https://github.com/uswitch/kiam
+icon: file://../icon.png
 keywords:
 - kiam
 - aws

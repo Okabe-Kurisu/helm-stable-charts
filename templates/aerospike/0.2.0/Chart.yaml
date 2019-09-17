@@ -1,7 +1,7 @@
 appVersion: v3.14.1.2
 description: A Helm chart for Aerospike in Kubernetes
 home: http://aerospike.com
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - aerospike
 - big-data

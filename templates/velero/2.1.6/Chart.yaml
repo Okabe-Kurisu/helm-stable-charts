@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 1.1.0
 description: A Helm chart for velero
 home: https://github.com/heptio/velero
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: d-caruso@hotmail.it
   name: domcar

@@ -2,6 +2,7 @@ appVersion: 1.14.0
 description: TensorFlow Serving is an open-source software library for serving machine
   learning models.
 home: https://github.com/kubernetes/charts
+icon: file://../icon.png
 maintainers:
 - email: cheyang@163.com
   name: cheyang

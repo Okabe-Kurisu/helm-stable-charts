@@ -5,7 +5,7 @@ description: A popular open source ecommerce solution. Professional tools are ea
   cart reminders and automated Email marketing.
 engine: gotpl
 home: https://prestashop.com/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - prestashop
 - e-commerce

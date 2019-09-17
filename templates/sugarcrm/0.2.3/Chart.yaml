@@ -2,7 +2,7 @@ description: SugarCRM enables businesses to create extraordinary customer relati
   with the most innovative and affordable CRM solution in the market.
 engine: gotpl
 home: http://www.sugarcrm.com/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - sugarcrm
 - CRM

@@ -4,6 +4,7 @@ deprecated: true
 description: DEPRECATED Automatically requests certificates from Let's Encrypt
 engine: gotpl
 home: https://github.com/jetstack/kube-lego
+icon: file://../icon.svg
 keywords:
 - kube-lego
 - letsencrypt

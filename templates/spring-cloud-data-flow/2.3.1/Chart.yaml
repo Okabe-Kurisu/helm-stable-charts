@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 2.1.2.RELEASE
 description: Toolkit for building data processing pipelines.
 home: http://cloud.spring.io/spring-cloud-dataflow/
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: trisberg@pivotal.io
   name: trisberg

@@ -1,7 +1,7 @@
 appVersion: '1'
 description: Instana Agent for Kubernetes
 home: https://www.instana.com/
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: jon.brisbin@instana.com
   name: jbrisbin

@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 0.1.9
 description: CoreOS vault-operator Helm chart for Kubernetes
 home: https://github.com/coreos/vault-operator
-icon: file://..icon.svg
+icon: file://../icon.svg
 maintainers:
 - email: michael@laccetti.com
   name: mlaccetti

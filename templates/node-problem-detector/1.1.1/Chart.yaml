@@ -3,7 +3,7 @@ description: Installs the node-problem-detector daemonset for monitoring extra a
   on nodes
 engine: gotpl
 home: https://github.com/kubernetes/node-problem-detector
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - node
 - problem

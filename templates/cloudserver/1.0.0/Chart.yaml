@@ -4,7 +4,7 @@ description: An open-source Node.js implementation of the Amazon S3 protocol on 
   Google.
 engine: gotpl
 home: https://www.zenko.io/cloudserver/
-icon: file://..icon.png
+icon: file://../icon.png
 kubeVersion: ^1.8.0-0
 maintainers:
 - email: giacomoguiulfo@gmail.com

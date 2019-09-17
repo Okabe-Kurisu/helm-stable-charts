@@ -3,7 +3,7 @@ appVersion: v0.9.5
 description: This is a web tool for the confluentinc/schema-registry in order to create
   / view / search / evolve / view history & configure Avro schemas of your Kafka cluster.
 home: https://github.com/Landoop/schema-registry-ui
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - confluent
 - schema-registry-ui

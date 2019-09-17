@@ -3,7 +3,7 @@ appVersion: v0.29.3
 description: The easy, open source way for everyone in your company to ask questions
   and learn from data.
 home: http://www.metabase.com/
-icon: file://..icon.svg
+icon: file://../icon.svg
 maintainers:
 - email: phamminhthanh69@gmail.com
   name: pmint93

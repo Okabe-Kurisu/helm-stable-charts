@@ -2,7 +2,7 @@ appVersion: 0.1.29
 description: ElastAlert is a simple framework for alerting on anomalies, spikes, or
   other patterns of interest from data in Elasticsearch.
 engine: gotpl
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: 9246508+pickledrick@users.noreply.github.com
   name: pickledrick

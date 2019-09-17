@@ -3,7 +3,7 @@ description: Fast, reliable, scalable, and easy to use open-source relational da
   as well as for embedding into mass-deployed software.
 engine: gotpl
 home: https://mariadb.org
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - mariadb
 - mysql

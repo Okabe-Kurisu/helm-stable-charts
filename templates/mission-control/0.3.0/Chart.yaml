@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 3.0.0
 description: A Helm chart for JFrog Mission Control
 home: https://jfrog.com/mission-control/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - mission-control
 - jfrog

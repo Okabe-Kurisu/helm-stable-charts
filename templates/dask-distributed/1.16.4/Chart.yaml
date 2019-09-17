@@ -1,6 +1,6 @@
 description: Distributed computation in Python
 home: https://github.com/dask/distributed
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: df.rodriguez143@gmail.com
   name: danielfrg

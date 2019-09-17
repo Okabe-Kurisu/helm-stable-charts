@@ -3,6 +3,7 @@ description: Open-source web application written in Go and React.js that provide
   rules.
 engine: gotpl
 home: https://www.influxdata.com/time-series-platform/chronograf/
+icon: file://../icon.png
 keywords:
 - chronograf
 - visualizaion

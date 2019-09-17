@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: '3'
 description: Agent for Buildkite
 home: https://buildkite.com
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - kubernetes deployment
 - helm release

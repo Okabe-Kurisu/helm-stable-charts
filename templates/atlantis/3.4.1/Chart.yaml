@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: v0.7.1
 description: A Helm chart for Atlantis https://www.runatlantis.io
 home: https://www.runatlantis.io
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - terraform
 maintainers:

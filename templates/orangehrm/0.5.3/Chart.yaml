@@ -3,7 +3,7 @@ description: OrangeHRM is a free HR management system that offers a wealth of mo
   to suit the needs of your business.
 engine: gotpl
 home: https://www.orangehrm.com
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - orangehrm
 - http

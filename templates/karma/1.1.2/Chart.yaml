@@ -2,6 +2,7 @@ apiVersion: v1
 appVersion: v0.14
 description: A Helm chart for Karma - an UI for Prometheus Alertmanager
 home: https://github.com/prymitive/karma
+icon: file://../icon.png
 maintainers:
 - email: david@davidkarlsen.com
   name: davidkarlsen

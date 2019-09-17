@@ -2,7 +2,7 @@ appVersion: 4.8.3
 description: Web publishing platform for building blogs and websites.
 engine: gotpl
 home: http://www.wordpress.com/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - wordpress
 - cms

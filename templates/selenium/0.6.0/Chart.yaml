@@ -2,7 +2,7 @@ appVersion: 3.12.0
 description: Chart for selenium grid
 engine: gotpl
 home: http://www.seleniumhq.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - qa
 maintainers:

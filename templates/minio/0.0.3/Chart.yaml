@@ -1,6 +1,7 @@
 apiVersion: v1
 description: A Minio Helm chart for Kubernetes
 home: https://minio.io
+icon: file://../icon.png
 keywords:
 - storage
 - object-storage

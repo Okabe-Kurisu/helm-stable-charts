@@ -1,6 +1,6 @@
 description: Sysdig Monitor Agent.
 home: https://www.sysdig.com/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - monitoring
 - alerting

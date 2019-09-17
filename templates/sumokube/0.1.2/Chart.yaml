@@ -1,4 +1,5 @@
 description: Sumologic Log Collector
+icon: file://../icon.png
 keywords:
 - monitoring
 - logging

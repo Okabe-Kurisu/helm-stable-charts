@@ -2,7 +2,7 @@ appVersion: 5.1.0
 description: Concourse is a simple and scalable CI system.
 engine: gotpl
 home: https://concourse-ci.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - ci
 - concourse

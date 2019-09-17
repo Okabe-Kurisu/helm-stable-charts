@@ -1,6 +1,7 @@
 description: Concourse Helm chart for Kubernetes.
 engine: gotpl
 home: https://concourse.ci/
+icon: file://../icon.png
 keywords:
 - ci
 - concourse

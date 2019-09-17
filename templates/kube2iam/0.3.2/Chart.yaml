@@ -1,5 +1,6 @@
 description: Provide IAM credentials to pods based on annotations.
 engine: gotpl
+icon: file://../icon.png
 keywords:
 - kube2iam
 - aws

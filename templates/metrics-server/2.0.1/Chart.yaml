@@ -2,6 +2,7 @@ apiVersion: v1
 appVersion: 0.3.0
 description: Metrics Server is a cluster-wide aggregator of resource usage data.
 home: https://github.com/kubernetes-incubator/metrics-server
+icon: file://../icon.png
 keywords:
 - metrics-server
 maintainers:

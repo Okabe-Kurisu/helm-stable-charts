@@ -1,6 +1,6 @@
 description: The open-source database for the realtime web
 home: https://www.rethinkdb.com
-icon: file://..icon.jpg
+icon: file://../icon.jpg
 keywords:
 - rethinkdb
 - database

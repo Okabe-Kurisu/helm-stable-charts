@@ -3,7 +3,7 @@ appVersion: 6.0.0
 deprecated: true
 description: DEPRECATED Voyager by AppsCode - Secure Ingress Controller for Kubernetes
 home: https://appscode.com/products/voyager/
-icon: file://..icon.png
+icon: file://../icon.png
 name: voyager
 sources:
 - https://github.com/appscode/voyager

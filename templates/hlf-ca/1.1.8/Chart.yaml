@@ -3,7 +3,7 @@ appVersion: 1.3.0
 description: Hyperledger Fabric Certificate Authority chart (these charts are created
   by AID:Tech and are currently not directly associated with the Hyperledger project)
 home: http://hyperledger-fabric-ca.readthedocs.io
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - blockchain
 - hyperledger

@@ -1,7 +1,7 @@
 appVersion: 2.10.0
 description: CoreOS Dex
 home: https://github.com/coreos/dex/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - dex
 - oidc

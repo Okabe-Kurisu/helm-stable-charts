@@ -2,6 +2,7 @@ apiVersion: v1
 appVersion: 1.2.0
 description: Inbucket is an email testing application
 home: https://www.inbucket.org/
+icon: file://../icon.png
 keywords:
 - inbucket
 - mail

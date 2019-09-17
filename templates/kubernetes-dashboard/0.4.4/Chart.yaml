@@ -1,5 +1,6 @@
 appVersion: 1.7.1
 description: General-purpose web UI for Kubernetes clusters
+icon: file://../icon.png
 keywords:
 - kubernetes
 - dashboard

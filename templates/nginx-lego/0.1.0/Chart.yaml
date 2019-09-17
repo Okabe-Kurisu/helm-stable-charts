@@ -1,5 +1,6 @@
 description: Chart for nginx-ingress-controller and kube-lego
 engine: gotpl
+icon: file://../icon.png
 keywords:
 - kube-lego
 - nginx-ingress-controller

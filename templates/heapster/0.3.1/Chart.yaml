@@ -3,6 +3,7 @@ appVersion: 1.5.2
 description: Heapster enables Container Cluster Monitoring and Performance Analysis.
 engine: gotpl
 home: https://github.com/kubernetes/heapster
+icon: file://../icon.png
 keywords:
 - metrics
 - cadvisor

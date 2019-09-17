@@ -1,6 +1,7 @@
 description: A Helm chart for Kubernetes
 engine: gotpl
 home: https://grafana.net
+icon: file://../icon.png
 maintainers:
 - email: zanhsieh@gmail.com
   name: Ming Hsieh

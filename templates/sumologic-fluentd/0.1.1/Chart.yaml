@@ -1,6 +1,6 @@
 description: Sumologic Log Collector
 home: https://github.com/SumoLogic/fluentd-kubernetes-sumologic
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - monitoring
 - logging

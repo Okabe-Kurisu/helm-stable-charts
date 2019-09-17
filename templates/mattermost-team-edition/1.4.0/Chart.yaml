@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 5.5.0
 description: Mattermost Team Edition server.
 home: https://mattermost.com
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - mattermost
 - communication

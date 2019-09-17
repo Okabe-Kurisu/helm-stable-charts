@@ -7,7 +7,7 @@ description: 'Weave Cloud is a add-on to Kubernetes which provides Continuous De
   '
 engine: gotpl
 home: https://weave.works
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: ilya@weave.works
   name: errordeveloper

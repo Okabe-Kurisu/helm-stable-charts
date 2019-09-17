@@ -1,6 +1,7 @@
 description: Chart for Telegraf Kubernetes deployments
 engine: gotpl
 home: https://www.influxdata.com/time-series-platform/telegraf/
+icon: file://../icon.png
 keywords:
 - telegraf
 - collector

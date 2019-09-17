@@ -1,7 +1,7 @@
 appVersion: 0.14.22
 description: Factorio dedicated server.
 home: https://www.factorio.com/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - game
 - server

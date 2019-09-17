@@ -4,6 +4,7 @@ description: Provides a POP3-polled DMARC XML report injector into Elasticsearch
   Logstash and Filebeat
 engine: gotpl
 home: https://github.com/jertel/dmarc2logstash
+icon: file://../icon.png
 maintainers:
 - email: jertel@codesim.com
   name: jertel

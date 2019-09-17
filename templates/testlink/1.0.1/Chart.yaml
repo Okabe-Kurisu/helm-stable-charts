@@ -2,7 +2,7 @@ appVersion: 1.9.16
 description: Web-based test management system that facilitates software quality assurance.
 engine: gotpl
 home: http://www.testlink.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - testlink
 - testing

@@ -4,7 +4,7 @@ description: "Hazelcast IMDG is the most widely used in-memory data grid with hu
   \ ensuring that data is in the right place when it\u2019s needed for optimal performance."
 engine: gotpl
 home: http://hazelcast.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - hazelcast
 - keyvalue

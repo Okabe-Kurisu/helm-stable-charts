@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 0.8.0
 description: Helm Chart Repository with support for Amazon S3 and Google Cloud Storage
 home: https://github.com/chartmuseum/chartmuseum
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - chartmuseum
 - helm

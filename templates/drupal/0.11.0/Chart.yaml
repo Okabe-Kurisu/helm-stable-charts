@@ -2,7 +2,7 @@ appVersion: 8.4.2
 description: One of the most versatile open source content management systems.
 engine: gotpl
 home: http://www.drupal.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - drupal
 - cms

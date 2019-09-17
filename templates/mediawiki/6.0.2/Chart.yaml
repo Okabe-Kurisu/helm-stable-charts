@@ -3,7 +3,7 @@ description: Extremely powerful, scalable software and a feature-rich wiki imple
   that uses PHP to process and display data stored in a database.
 engine: gotpl
 home: http://www.mediawiki.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - mediawiki
 - wiki

@@ -2,7 +2,7 @@ appVersion: 3.8.7
 description: PHP content management system (CMS) for publishing web content
 engine: gotpl
 home: http://www.joomla.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - joomla
 - cms

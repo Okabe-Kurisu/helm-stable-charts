@@ -3,7 +3,7 @@ appVersion: 0.5.0
 deprecated: true
 description: DEPRECATED G2 by AppsCode - Gearman in Golang
 home: https://github.com/appscode/g2
-icon: file://..icon.png
+icon: file://../icon.png
 name: g2
 sources:
 - https://github.com/appscode/g2

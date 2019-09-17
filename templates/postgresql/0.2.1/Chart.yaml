@@ -1,6 +1,7 @@
 description: Chart for PostgreSQL
 engine: gotpl
 home: https://www.postgresql.org/
+icon: file://../icon.png
 keywords:
 - postgresql
 - postgres

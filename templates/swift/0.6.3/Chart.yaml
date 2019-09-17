@@ -3,7 +3,7 @@ appVersion: 0.7.3
 deprecated: true
 description: DEPRECATED swift by AppsCode - Ajax friendly Helm Tiller Proxy
 home: https://github.com/appscode/swift
-icon: file://..icon.png
+icon: file://../icon.png
 name: swift
 sources:
 - https://github.com/appscode/swift

@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 1.0.47
 description: IngressMonitorController chart that runs on kubernetes
 home: https://github.com/stakater/IngressMonitorController
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - IngressMonitorController
 - kubernetes

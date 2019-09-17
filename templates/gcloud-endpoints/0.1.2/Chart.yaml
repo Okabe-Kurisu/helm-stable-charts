@@ -1,9 +1,10 @@
-appVersion: "1"
+appVersion: '1'
 deprecated: true
 description: DEPRECATED Develop, deploy, protect and monitor your APIs with Google
   Cloud Endpoints.
 engine: gotpl
 home: https://cloud.google.com/endpoints/
+icon: file://../icon.png
 keywords:
 - google
 - endpoints

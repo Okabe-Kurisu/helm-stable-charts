@@ -2,6 +2,7 @@ appVersion: 0.0.6
 description: A benchmark tool for cloud object storage services
 engine: gotpl
 home: https://github.com/intel-cloud/cosbench
+icon: file://../icon.png
 kubeVersion: ^1.8.0-0
 maintainers:
 - email: giacomoguiulfo@gmail.com

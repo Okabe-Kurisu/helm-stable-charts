@@ -4,6 +4,7 @@ description: An application that can be used to easily enable authentication flo
   via OIDC for a kubernetes cluster.
 engine: gotpl
 home: https://github.com/heptiolabs/gangway
+icon: file://../icon.png
 maintainers:
 - email: robin@kearney.co.uk
   name: rk295

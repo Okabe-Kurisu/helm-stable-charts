@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 3.2.2
 description: The SignalFx Kubernetes agent
 home: https://signalfx.com
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - monitoring
 - alerting

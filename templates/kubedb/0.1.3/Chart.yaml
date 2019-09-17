@@ -4,7 +4,7 @@ deprecated: true
 description: DEPRECATED KubeDB by AppsCode - Making running production-grade databases
   easy on Kubernetes
 home: https://github.com/kubedb/cli
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: kubedb@appscode.com
   name: appscode

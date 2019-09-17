@@ -2,7 +2,7 @@ appVersion: 6.4.3
 description: Kibana is an open source data visualization plugin for Elasticsearch
 engine: gotpl
 home: https://www.elastic.co/products/kibana
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - elasticsearch
 - kibana

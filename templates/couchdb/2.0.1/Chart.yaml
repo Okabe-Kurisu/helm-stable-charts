@@ -3,7 +3,7 @@ appVersion: 2.3.1
 description: A database featuring seamless multi-master sync, that scales from big
   data to mobile, with an intuitive HTTP/JSON API and designed for reliability.
 home: https://couchdb.apache.org/
-icon: file://..icon.svg
+icon: file://../icon.svg
 keywords:
 - couchdb
 - database

@@ -2,7 +2,7 @@ appVersion: 4.0.11-r1
 description: Highly available Redis cluster with multiple sentinels and standbys.
 engine: gotpl
 home: http://redis.io/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - redis
 - keyvalue

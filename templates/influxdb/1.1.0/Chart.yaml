@@ -1,7 +1,8 @@
-appVersion: "1.7"
+appVersion: '1.7'
 description: Scalable datastore for metrics, events, and real-time analytics.
 engine: gotpl
 home: https://www.influxdata.com/time-series-platform/influxdb/
+icon: file://../icon.png
 keywords:
 - influxdb
 - database

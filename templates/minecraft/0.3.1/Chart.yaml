@@ -1,6 +1,7 @@
 appVersion: 1.13.1
 description: Minecraft server
 home: https://minecraft.net/
+icon: file://../icon.png
 keywords:
 - game
 - server

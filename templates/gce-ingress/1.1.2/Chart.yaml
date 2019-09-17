@@ -3,6 +3,7 @@ appVersion: 1.4.0
 description: A GCE Ingress Controller
 engine: gotpl
 home: https://github.com/kubernetes/ingress-gce
+icon: file://../icon.png
 keywords:
 - ingress
 - gce

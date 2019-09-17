@@ -1,7 +1,7 @@
 appVersion: 0.18.1
 description: Distributed computation in Python with task scheduling
 home: https://dask.pydata.org
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: df.rodriguez143@gmail.com
   name: danielfrg

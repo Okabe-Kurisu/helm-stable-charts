@@ -1,6 +1,7 @@
 apiVersion: v1
 appVersion: 0.5.1
 description: Stackdriver exporter for Prometheus
+icon: file://../icon.png
 keywords:
 - metrics
 - stackdriver

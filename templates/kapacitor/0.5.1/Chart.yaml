@@ -1,8 +1,9 @@
-appVersion: "1.4"
+appVersion: '1.4'
 description: InfluxDB's native data processing engine. It can process both stream
   and batch data from InfluxDB.
 engine: gotpl
 home: https://www.influxdata.com/time-series-platform/kapacitor/
+icon: file://../icon.png
 keywords:
 - kapacitor
 - stream

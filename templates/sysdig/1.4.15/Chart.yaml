@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 0.92.1
 description: Sysdig Monitor and Secure agent
 home: https://www.sysdig.com/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - monitoring
 - security

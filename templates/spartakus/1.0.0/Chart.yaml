@@ -1,6 +1,7 @@
 description: A Spartakus Helm chart for Kubernetes. Spartakus aims to collect information
   about Kubernetes clusters.
 engine: gotpl
+icon: file://../icon.png
 maintainers:
 - email: mgoodness@gmail.com
   name: Michael Goodness

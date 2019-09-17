@@ -2,7 +2,7 @@ appVersion: 4.8.2
 description: phpMyAdmin is an mysql administration frontend
 engine: gotpl
 home: https://www.phpmyadmin.net/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - mariadb
 - mysql

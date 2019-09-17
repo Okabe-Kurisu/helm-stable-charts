@@ -3,7 +3,7 @@ appVersion: 0.0.12
 description: A Helm chart to deploy the New Relic Infrastructure Agent as a DaemonSet
 engine: gotpl
 home: https://hub.docker.com/r/newrelic/infrastructure/
-icon: file://..icon.svg
+icon: file://../icon.svg
 keywords:
 - infrastructure
 - newrelic

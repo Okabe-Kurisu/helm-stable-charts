@@ -3,7 +3,7 @@ appVersion: 0.4.10
 description: CouchDB instance for Hyperledger Fabric (these charts are created by
   AID:Tech and are currently not directly associated with the Hyperledger project)
 home: http://hyperledger-fabric.readthedocs.io
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - blockchain
 - hyperledger

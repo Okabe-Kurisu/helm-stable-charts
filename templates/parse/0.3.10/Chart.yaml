@@ -4,6 +4,7 @@ description: Parse is a platform that enables users to add a scalable and powerf
   and more.
 engine: gotpl
 home: https://parse.com/
+icon: file://../icon.png
 keywords:
 - parse
 - backend

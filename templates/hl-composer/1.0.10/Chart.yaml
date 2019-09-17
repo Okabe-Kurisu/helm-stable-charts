@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 0.20.0
 description: Hyperledger Composer REST Server chart
 home: https://hyperledger.github.io/composer
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - blockchain
 - hyperledger

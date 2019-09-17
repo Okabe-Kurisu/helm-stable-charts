@@ -4,7 +4,7 @@ description: DEPRECATED! - A Fluentd Helm chart for Kubernetes with Elasticsearc
   output
 engine: gotpl
 home: https://www.fluentd.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - fluentd
 - elasticsearch

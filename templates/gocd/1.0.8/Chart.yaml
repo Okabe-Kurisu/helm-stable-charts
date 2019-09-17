@@ -2,7 +2,7 @@ appVersion: 18.5.0
 description: GoCD is an open-source continuous delivery server to model and visualize
   complex workflows with ease.
 home: https://www.gocd.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - gocd
 - ci

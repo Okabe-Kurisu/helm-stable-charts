@@ -4,7 +4,7 @@ description: Chart for PostgreSQL, an object-relational database management syst
   (ORDBMS) with an emphasis on extensibility and on standards-compliance.
 engine: gotpl
 home: https://www.postgresql.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - postgresql
 - postgres

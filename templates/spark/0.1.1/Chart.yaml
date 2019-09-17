@@ -1,6 +1,7 @@
 description: A Apache Spark Helm chart for Kubernetes. Apache Spark is a fast and
   general-purpose cluster computing system
 home: http://spark.apache.org/
+icon: file://../icon.png
 maintainers:
 - email: lachlan.evenson@gmail.com
   name: Lachlan Evenson

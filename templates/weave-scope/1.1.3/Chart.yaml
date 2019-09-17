@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 1.11.3
 description: A Helm chart for the Weave Scope cluster visualizer.
 home: https://www.weave.works/oss/scope/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - containers
 - dashboard

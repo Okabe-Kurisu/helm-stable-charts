@@ -1,7 +1,7 @@
 description: CoreDNS is a DNS server that chains middleware and provides Kubernetes
   DNS Services
 home: https://coredns.io
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - coredns
 - dns

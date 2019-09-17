@@ -4,7 +4,7 @@ description: DEPRECATED SugarCRM enables businesses to create extraordinary cust
   relationships with the most innovative and affordable CRM solution in the market.
 engine: gotpl
 home: http://www.sugarcrm.com/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - sugarcrm
 - CRM

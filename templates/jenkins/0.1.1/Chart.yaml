@@ -1,6 +1,6 @@
 description: A Jenkins Helm chart for Kubernetes.
 home: https://jenkins.io/
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: lachlan@deis.com
   name: Lachlan Evenson

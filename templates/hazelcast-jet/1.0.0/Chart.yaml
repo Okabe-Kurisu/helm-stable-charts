@@ -6,7 +6,7 @@ description: Hazelcast Jet is an application embeddable, distributed computing e
   applications to operate in near real-time.
 engine: gotpl
 home: http://jet.hazelcast.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - hazelcast
 - jet

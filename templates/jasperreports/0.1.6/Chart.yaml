@@ -3,7 +3,7 @@ description: The JasperReports server can be used as a stand-alone or embedded r
   and a dashboard feature for compiling multiple custom views
 engine: gotpl
 home: http://community.jaspersoft.com/project/jasperreports-server
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - business intelligence
 - java

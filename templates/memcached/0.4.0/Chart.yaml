@@ -1,6 +1,7 @@
 description: Chart for Memcached
 engine: gotpl
 home: http://memcached.org/
+icon: file://../icon.png
 keywords:
 - memcached
 - cache

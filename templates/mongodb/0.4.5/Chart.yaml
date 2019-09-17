@@ -1,6 +1,7 @@
 description: Chart for MongoDB
 engine: gotpl
 home: https://mongodb.org
+icon: file://../icon.png
 keywords:
 - mongodb
 - database

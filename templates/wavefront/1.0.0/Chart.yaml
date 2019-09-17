@@ -2,6 +2,7 @@ apiVersion: v1
 appVersion: 0.9.7
 description: Wavefront Kubernetes collector
 home: https://www.wavefront.com
+icon: file://../icon.png
 keywords:
 - metric
 - monitoring

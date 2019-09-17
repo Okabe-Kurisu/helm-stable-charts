@@ -3,7 +3,7 @@ appVersion: 1.5.6
 description: Run this, get logs. All cluster containers. LogDNA collector agent daemonset
   for Kubernetes.
 home: https://logdna.com
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - logs
 - logging

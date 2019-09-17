@@ -2,7 +2,7 @@ appVersion: 4.2.1.Final
 description: Open Source Identity and Access Management For Modern Applications and
   Services
 home: https://www.keycloak.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - sso
 - idm

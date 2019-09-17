@@ -1,6 +1,7 @@
 appVersion: latest
 description: Sumologic Log Collector
 home: https://www.sumologic.com/
+icon: file://../icon.png
 keywords:
 - monitoring
 - logging

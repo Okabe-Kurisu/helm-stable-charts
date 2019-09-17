@@ -3,7 +3,7 @@ appVersion: '5'
 description: Seq is the easiest way for development teams to capture, search and visualize
   structured log events! This page will walk you through the very quick setup process.
 home: https://getseq.net/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - seq
 - structured

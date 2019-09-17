@@ -3,7 +3,7 @@ appVersion: 3.12.1
 description: SignalSciences is a web application firewall. This chart is the installable
   agent.
 home: https://signalsciences.com
-icon: file://..icon.svg
+icon: file://../icon.svg
 keywords:
 - signalsciences
 - signal-sciences

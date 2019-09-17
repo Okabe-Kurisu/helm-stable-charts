@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 0.9.1
 description: A Helm chart for ark
 home: https://github.com/heptio/ark
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: d-caruso@hotmail.it
   name: domcar

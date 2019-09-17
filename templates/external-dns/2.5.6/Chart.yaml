@@ -4,7 +4,7 @@ description: ExternalDNS is a Kubernetes addon that configures public DNS server
   with information about exposed Kubernetes services to make them discoverable.
 engine: gotpl
 home: https://github.com/kubernetes-incubator/external-dns
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - external-dns
 - network

@@ -3,7 +3,7 @@ appVersion: 1.3.3.22
 description: A tool for managing Apache Kafka.
 engine: gotpl
 home: https://github.com/yahoo/kafka-manager
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - kafka
 - zookeeper

@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 1.1.4-3
 description: Graphite metrics server
 home: https://graphiteapp.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - metrics
 maintainers:

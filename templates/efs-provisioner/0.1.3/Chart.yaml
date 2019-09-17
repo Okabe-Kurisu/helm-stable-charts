@@ -2,6 +2,7 @@ apiVersion: v1
 appVersion: v0.1.2
 description: A Helm chart for the AWS EFS external storage provisioner
 home: https://github.com/kubernetes-incubator/external-storage/tree/master/aws/efs
+icon: file://../icon.png
 maintainers:
 - email: aaron@roydhouse.com
   name: whereisaaron

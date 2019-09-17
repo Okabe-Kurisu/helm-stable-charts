@@ -4,7 +4,7 @@ description: A file sharing server that puts the control and security of your ow
   data back into your hands.
 engine: gotpl
 home: https://owncloud.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - owncloud
 - storage

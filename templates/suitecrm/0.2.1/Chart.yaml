@@ -3,7 +3,7 @@ description: SuiteCRM is a completely open source enterprise-grade Customer Rela
   relationship management (CRM) system SugarCRM.
 engine: gotpl
 home: http://www.suitecrm.com
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - suitecrm
 - CRM

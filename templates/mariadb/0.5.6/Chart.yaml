@@ -1,6 +1,7 @@
 description: Chart for MariaDB
 engine: gotpl
 home: https://mariadb.org
+icon: file://../icon.png
 keywords:
 - mariadb
 - mysql

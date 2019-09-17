@@ -4,6 +4,7 @@ description: A reverse proxy that provides authentication with Google, Github or
   providers
 engine: gotpl
 home: http://www.videntity.com/
+icon: file://../icon.png
 keywords:
 - kubernetes
 - oauth

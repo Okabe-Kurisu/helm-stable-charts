@@ -3,7 +3,7 @@ appVersion: 0.4.0
 deprecated: true
 description: DEPRECATED Kubed by AppsCode - Kubernetes daemon
 home: https://github.com/appscode/kubed
-icon: file://..icon.png
+icon: file://../icon.png
 name: kubed
 sources:
 - https://github.com/appscode/kubed

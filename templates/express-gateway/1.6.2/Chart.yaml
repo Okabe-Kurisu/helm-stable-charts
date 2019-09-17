@@ -4,7 +4,7 @@ description: Express Gateway is an API Gateway that sits at the heart of any mic
   architecture
 engine: gotpl
 home: https://express-gateway.io
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: vincenz.chianese@icloud.com
   name: XVincentX

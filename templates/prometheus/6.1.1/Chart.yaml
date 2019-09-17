@@ -2,7 +2,7 @@ appVersion: 2.2.1
 description: Prometheus is a monitoring system and time series database.
 engine: gotpl
 home: https://prometheus.io/
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: mgoodness@gmail.com
   name: mgoodness

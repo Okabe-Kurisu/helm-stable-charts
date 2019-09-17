@@ -1,7 +1,7 @@
 appVersion: 3.16.0
 description: CoScale Agent
 home: https://www.coscale.com/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - monitoring
 - alerting

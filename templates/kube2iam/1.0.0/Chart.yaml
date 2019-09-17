@@ -3,6 +3,7 @@ appVersion: 0.10.4
 description: Provide IAM credentials to pods based on annotations.
 engine: gotpl
 home: https://github.com/jtblin/kube2iam
+icon: file://../icon.png
 keywords:
 - kube2iam
 - aws

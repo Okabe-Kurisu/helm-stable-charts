@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 2.0.2
 description: Centrifugo is a real-time messaging server.
 home: https://github.com/centrifugal/centrifugo
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - centrifugo
 - websocket

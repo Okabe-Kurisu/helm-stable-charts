@@ -5,7 +5,7 @@ description: DokuWiki is a standards-compliant, simple to use wiki optimized for
   All data is stored in plain text files, so no database is required.
 engine: gotpl
 home: http://www.dokuwiki.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - dokuwiki
 - wiki

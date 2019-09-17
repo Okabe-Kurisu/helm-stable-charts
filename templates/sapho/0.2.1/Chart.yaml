@@ -4,7 +4,7 @@ description: A micro application development and integration platform that enabl
   business systems and track changes to key business data.
 engine: gotpl
 home: http://www.sapho.com
-icon: file://..icon.svg
+icon: file://../icon.svg
 maintainers:
 - email: support@sapho.com
   name: Sapho

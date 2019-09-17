@@ -2,7 +2,7 @@ appVersion: 1.5.0
 description: CoreDNS is a DNS server that chains plugins and provides Kubernetes DNS
   Services
 home: https://coredns.io
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - coredns
 - dns

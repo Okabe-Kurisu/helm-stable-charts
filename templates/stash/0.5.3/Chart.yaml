@@ -3,7 +3,7 @@ appVersion: 0.7.0-rc.1
 deprecated: true
 description: DEPRECATED Stash by AppsCode - Backup your Kubernetes Volumes
 home: https://github.com/appscode/stash
-icon: file://..icon.png
+icon: file://../icon.png
 name: stash
 sources:
 - https://github.com/appscode/stash

@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 3.0.4
 description: Composer repo hosting with Satisfy
 home: https://github.com/anapsix/docker-satisfy
-icon: file://..icon.png
+icon: file://../icon.png
 maintainers:
 - email: anapsix@random.io
   name: anapsix

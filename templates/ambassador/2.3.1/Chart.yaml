@@ -3,7 +3,7 @@ appVersion: 0.60.3
 description: A Helm chart for Datawire Ambassador
 engine: gotpl
 home: https://www.getambassador.io/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - api gateway
 - ambassador

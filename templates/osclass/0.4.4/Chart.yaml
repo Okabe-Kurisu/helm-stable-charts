@@ -2,7 +2,7 @@ description: Osclass is a php script that allows you to quickly create and manag
   your own free classifieds site.
 engine: gotpl
 home: https://osclass.org/
-icon: file://..icon.png
+icon: file://../icon.png
 keywords:
 - osclass
 - classifieds
